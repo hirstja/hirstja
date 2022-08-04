@@ -1,4 +1,4 @@
-### Hi, welcome to my GitHub page!
+### Hi, Welcome to my GitHub Page!
 
 <!--
 **hirstja/hirstja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
